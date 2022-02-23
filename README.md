@@ -9,4 +9,5 @@
 - sympy
 - sklearn
 
+## Install Command
 `pip install --no-index --find-links . <package_name>`
